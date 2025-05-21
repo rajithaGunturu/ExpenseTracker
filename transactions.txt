@@ -1,0 +1,6 @@
+Income,Salary,23000,2025-05-01
+Expense,Rent,8000,2025-05-05
+Expense,Loan1,6500,2025-05-01
+Expense,Loan2,5000,2025-05-03
+Expense,Current Bill,1500,2025-05-03
+Expense,Food,1500,2025-05-08
